@@ -4,9 +4,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/micro/go-micro/v2/client"
-	"github.com/micro/go-micro/v2/errors"
 	"github.com/sony/gobreaker"
+	"github.com/unistack-org/micro/v3/client"
+	"github.com/unistack-org/micro/v3/errors"
 )
 
 type BreakerMethod int
