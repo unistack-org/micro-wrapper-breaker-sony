@@ -1,4 +1,4 @@
-module github.com/unistack-org/micro-wrapper-gobreaker
+module github.com/unistack-org/micro-wrapper-breaker-sony
 
 go 1.13
 
