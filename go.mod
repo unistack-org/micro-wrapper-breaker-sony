@@ -6,5 +6,5 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/sony/gobreaker v0.4.1
 	github.com/stretchr/testify v1.7.0 // indirect
-	github.com/unistack-org/micro/v3 v3.2.22
+	github.com/unistack-org/micro/v3 v3.2.23
 )
